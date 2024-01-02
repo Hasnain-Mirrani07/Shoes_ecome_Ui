@@ -4,6 +4,7 @@ import 'package:simple_animations/movie_tween/movie_tween.dart';
 
 //sdfkjdskafjhashj
 //kjhkjhjk
+//kjjkg
 //fade animation class
 class FadeAnimation extends StatelessWidget {
   final double delay;
